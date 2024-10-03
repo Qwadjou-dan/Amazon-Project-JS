@@ -1,7 +1,10 @@
 //Save the data - saving data on our HTML page inside Js
 //Also called data structuring
 
+import {cart} from '../data/cart.js';
+
 // Generate the HTML
+
 
 let productsHTML = ''
 
